@@ -1,5 +1,5 @@
 public class ArrayMethods {
-    // Problem 1
+ 
     public static long[] merge(long[] array1, long[] array2) {
         long length1 = array1.length;
         long length2 = array2.length;
